@@ -16,39 +16,3 @@
 2) Перейти в раздел "Pages"
 3) В подгруппе "Branch" выбрать основную ветку и нажать "Save"
 4) Готово! Репозиторий выложится через минуту, и в том же разделе "Pages" будет ссылка
-
-# save icons
-
-assets/icon_temperature_2.svg
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><g fill="none" fill-rule="evenodd"><path fill="#F8F8F8" d="M-925-365H441v768H-925z"/><path d="M0 0h24v24H0z"/><g transform="translate(7 1)"><path stroke="#F5A623" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 13.76V2.5a2.5 2.5 0 0 0-5 0v11.26a4.5 4.5 0 1 0 5 0Z"/><circle cx="4.5" cy="17.5" r="3.5" fill="#FFD93E" fill-rule="nonzero"/></g></g></svg>
-
-assets/icon_temperature.svg
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><g fill="none" fill-rule="evenodd"><path fill="#F8F8F8" d="M-464-269H902v768H-464z"/><g><path d="M0 0h24v24H0z"/><path stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".4" stroke-width="2" d="M14 14.76V3.5a2.5 2.5 0 1 0-5 0v11.26a4.5 4.5 0 1 0 5 0Z"/><circle cx="11.5" cy="18.5" r="3.5" fill="#333" fill-opacity=".1" fill-rule="nonzero"/></g></g></svg>
-
-logo.svg
-<svg xmlns="http://www.w3.org/2000/svg" width="112.884" height="38.04"><path fill="red" d="M9.35 21.43v8.68h2.44V7.45H8.15c-3.59 0-6.6 2.38-6.6 7.13 0 3.39 1.33 5.23 3.33 6.25L.63 30.11h2.83l3.86-8.68zm0-2.03h-1.3c-2.12 0-3.87-1.17-3.87-4.82 0-3.77 1.91-5.07 3.87-5.07h1.3z"/><path d="M36.26 28.09H35V14.14h-7.42v1.36c0 4.25-.16 9.19-1.62 12.59h-.98v5.16h2.22v-3.14h6.85v3.14h2.21zm10.75.95-.57-1.9c-.63.44-1.74 1.07-3.14 1.07-1.96 0-2.98-1.9-2.98-5.51h6.66v-1.37c0-5.42-1.74-7.41-4.41-7.41-3.39 0-4.82 3.74-4.82 8.87 0 4.92 2.03 7.55 5.33 7.55 1.59 0 2.92-.51 3.93-1.3zm-25.9-14.9v6.78h-3.68v-6.78h-2.47v15.97h2.47v-7.16h3.68v7.16h2.44V14.14zM56.2 30.11h2.7l-4.53-8.46 3.96-7.51h-2.51l-3.83 7.38v-7.38h-2.47v15.97h2.47v-7.95zm8.5.23c1.46 0 2.47-.48 3.33-1.21l-.57-1.84c-.57.51-1.49.99-2.7.99-1.99 0-2.95-2.29-2.95-6.28 0-4.03 1.27-6.02 3.05-6.02 1.01 0 1.96.54 2.63 1.11l.35-2.35c-.7-.44-1.52-.82-2.95-.82-3.74 0-5.67 3.2-5.67 8.21 0 5.45 2.06 8.21 5.48 8.21zm-32.14-2.25h-4.25c1.33-3.4 1.49-8.31 1.49-11.67v-.28h2.76zm10.01-12.14c1.43 0 1.87 1.99 1.87 4.72h-4.09c.16-2.85.7-4.72 2.22-4.72zm41.05 12.87h-7.06c.85-1.05 1.36-3.3 1.64-6.69.26-3.27.42-7.64.51-13.38h4.91zm1.91 5.07h1.23v-5.07h-1.55V7.45h-7.93c-.09 6.31-.19 11.32-.5 14.68-.32 3.23-.86 5.77-1.97 6.69h-.66v5.07h1.23l.22-3.78h9.7zm7.7-3.46c2.76 0 4.88-3.1 4.88-8.4 0-5.48-2.12-8.21-4.88-8.21s-4.88 3.08-4.88 8.4c0 5.45 2.12 8.21 4.88 8.21zm0-1.2c-1.87 0-3.39-2.13-3.39-7.1 0-4.85 1.52-7.07 3.39-7.07s3.39 2.06 3.39 7.07c0 4.82-1.52 7.1-3.39 7.1zm12.05-1.02h1.23l2.66-9.38c.23-.76.35-1.49.51-2.38h.13c-.06.89-.13 1.75-.13 2.82v10.84h1.43V14.14h-1.71l-2.86 9.76c-.31 1.14-.44 1.87-.54 2.7h-.12c-.1-.83-.19-1.56-.51-2.7l-2.79-9.76h-1.74v15.97h1.27V19.27c0-1.14-.1-1.93-.16-2.79h.12c.19.8.29 1.49.54 2.35z"/></svg>
-
-icon_sun
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><g fill="none" fill-rule="evenodd"><path fill="#F8F8F8" d="M-464-404H902v768H-464z"/><path d="M0 0h24v24H0z"/><g stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(1 1)"><circle cx="11" cy="11" r="5" stroke-opacity=".4"/><path stroke-opacity=".1" d="M11 0v2M11 20v2M3.22 3.22l1.42 1.42M17.36 17.36l1.42 1.42M0 11h2M20 11h2M3.22 18.78l1.42-1.42M17.36 4.64l1.42-1.42"/></g></g></svg>
-
-icon_sun_2
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><g fill="none" fill-rule="evenodd"><path fill="#F8F8F8" d="M-1140-250H226v768h-1366z"/><path d="M0 0h24v24H0z"/><g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(1 1)"><circle cx="11" cy="11" r="5" stroke="#F5A623"/><path stroke="#FFD93E" d="M11 0v2M11 20v2M3.22 3.22l1.42 1.42M17.36 17.36l1.42 1.42M0 11h2M20 11h2M3.22 18.78l1.42-1.42M17.36 4.64l1.42-1.42"/></g></g></svg>
-
-icon_scheduled
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><g fill="none" fill-rule="evenodd"><path fill="#F8F8F8" d="M-925-250H441v768H-925z"/><path d="M0 0h24v24H0z"/><g stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(2 2)"><circle cx="10" cy="10" r="10"/><path d="M10 4v6l3 3" opacity=".3"/></g></g></svg>
-
-icon_list_m@1x
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="14"><defs><path id="a" d="M0 3.326a.995.995 0 0 1 1-.993h14c.552 0 1 .44 1 .993v.681A.995.995 0 0 1 15 5H1c-.552 0-1-.44-1-.993v-.68ZM0 8.66a.995.995 0 0 1 1-.993h14c.552 0 1 .44 1 .993v.68a.995.995 0 0 1-1 .993H1c-.552 0-1-.44-1-.993v-.68Zm0 5.333A.995.995 0 0 1 1 13h14c.552 0 1 .44 1 .993v.68a.995.995 0 0 1-1 .994H1c-.552 0-1-.44-1-.993v-.681Z"/></defs><use xlink:href="#a" fill="#333" fill-rule="evenodd" transform="translate(0 -2)"/></svg>
-
-cloud-drizzle.svg
-<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26"><g fill="none" fill-rule="evenodd" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><path d="M15 20v2M15 13v2M10 22v2M10 15v2M21 17.58A5 5 0 0 0 19 8h-1.26A8 8 0 1 0 5 16.25"/></g></svg>
-
-arrow-down.svg
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="9" height="14"><defs><path id="a" d="M7.5 11.727c-.386 0-.623-.155-.935-.487L1.178 5.494a.917.917 0 0 1 0-1.238.785.785 0 0 1 1.16 0L7.5 9.763l5.162-5.507a.785.785 0 0 1 1.16 0c.32.342.32.896 0 1.238l-5.368 5.725c-.318.34-.568.508-.954.508Z"/></defs><g fill="none" fill-rule="evenodd"><path fill="#none" d="M-1283-608H83v829h-1366z"/><g transform="matrix(-1 0 0 1 12 -1)"><path d="M0 0h15v16H0z"/><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><g fill="#333" mask="url(#b)"><path d="M-76.875-57h169V73h-169z"/></g></g></g></svg>
-
-arrow-left
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="18" height="28"><image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAcCAQAAADGzSesAAAAIGNIUk0AAHomAACAhAAA+gAAAIDo AAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAd0SU1FB+kHAhYbO+UgCQ0AAAGm SURBVDjLjZNdTxNREIaf2V0jlrUQUoqhwSrChcZolJAuW0244MY/wu/wPxn0lqsC3ZBAAg1YJQRK hVCoCbBt3e4eL7Z81bOJc/XOnCczb+ZkIDGUFMY+jgJIEvLZWJrhCRg7a1VLj8xbX2fJAJAGQ4cs Pmg5KgMgf6zv2nGfHjYc0gCqba8sX2qgmZTpqEEAuRpb/eIDmH1e7MAlBaAuMqWldly952lhyC/K AIDRfF761rmu3xk3NxIUxAKQRspb7t6+3HRys4ETIxzny3eRm07F8eC9EgBV8zZE3XcqAB+edt7G qbVf2upHQMDNBoU4iarrO7rlGhBOxNL8oUfAgO5VLMPcvJ0ITVaNJgCP/OLCkA4yoaKm68EIKcBs 5/LntZYGgv2oWG+mxQYxwtyL3we+BoKKWvy1OyjpGJu8OLjULBNAifu6+6yXbHiHWgjAeRlO9eS2 t9c37jpqjXwUjQKQHZf6mbYTgJsP3vTkXrkiKuFa5nLhu/i7OSxvitIewsqReBIBMFGYTrgWWDth VXUB5PE/xm/jqPXqtGOLP7z9M+B/4i8WgYmFoAbJRgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyNS0w Ny0wMlQyMjoyNzo1OSswMDowMGxxp/MAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjUtMDctMDJUMjI6 Mjc6NTkrMDA6MDAdLB9PAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDI1LTA3LTAyVDIyOjI3OjU5 KzAwOjAwSjk+kAAAAABJRU5ErkJggg==" width="18" height="28"/></svg>
-
-css
-background: no-repeat calc(100% - 1rem) 50% #ffd93e
-    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='9' height='14'><defs><path id='a' d='M7.5 11.727c-.386 0-.623-.155-.935-.487L1.178 5.494a.917.917 0 0 1 0-1.238.785.785 0 0 1 1.16 0L7.5 9.763l5.162-5.507a.785.785 0 0 1 1.16 0c.32.342.32.896 0 1.238l-5.368 5.725c-.318.34-.568.508-.954.508Z'/></defs><g fill='none' fill-rule='evenodd'><path fill='none' d='M-1283-608H83v829h-1366z'/><g transform='rotate(-90 7 7)'><path d='M0 0h15v16H0z'/><mask id='b' fill='%23fff'><use xlink:href='%23a'/></mask><g fill='%23333' mask='url(%23b)'><path d='M-76.875-57h169V73h-169z'/></g></g></g></svg>")
