@@ -15,28 +15,7 @@
     <link rel="stylesheet" type="text/css" href="reset.css" />
     <link rel="stylesheet" type="text/css" href="styles.css" />
   </head>
-  <body>
-    <div id="app"></div>
-
-    <footer class="footer">
-      <ul class="footer__list">
-        <li class="footer__item">
-          <a class="footer__link" href="/">Помощь</a>
-        </li>
-        <li class="footer__item">
-          <a class="footer__link" href="/">Обратная связь</a>
-        </li>
-        <li class="footer__item">
-          <a class="footer__link" href="/">Разработчикам</a>
-        </li>
-        <li class="footer__item">
-          <a class="footer__link" href="/">Условия использования</a>
-        </li>
-      </ul>
-
-      <div class="footer__copyright">© 1997–2023 ООО «Яндекс»</div>
-    </footer>
-
+  <body id="root">
     <script src="vendors/babel.min.js"></script>
     <script type="text/babel">
       function Header() {
@@ -467,12 +446,46 @@
         );
       }
 
+      const Footer = () => {
+        return (
+          <footer className="footer">
+            <ul className="footer__list">
+              <li className="footer__item">
+                <a className="footer__link" href="/">
+                  Помощь
+                </a>
+              </li>
+              <li className="footer__item">
+                <a className="footer__link" href="/">
+                  Обратная связь
+                </a>
+              </li>
+              <li className="footer__item">
+                <a className="footer__link" href="/">
+                  Разработчикам
+                </a>
+              </li>
+              <li className="footer__item">
+                <a className="footer__link" href="/">
+                  Условия использования
+                </a>
+              </li>
+            </ul>
+
+            <div className="footer__copyright">© 1997–2023 ООО «Яндекс»</div>
+          </footer>
+        );
+      };
+
       window.onload = function () {
-        const root = ReactDOM.createRoot(document.getElementById("app"));
+        const root = ReactDOM.createRoot(document.querySelector("body"));
         root.render(
           <>
+          <div id="app">
             <Header />
             <Main />
+          </div>
+            <Footer />
           </>
         );
       };
