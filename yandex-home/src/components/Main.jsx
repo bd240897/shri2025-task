@@ -132,7 +132,9 @@ const TABS = {
 };
 
 const TABS_KEYS = Object.keys(TABS);
-
+for (let i = 0; i < 6; ++i) {
+  TABS.all.items = [...TABS.all.items, ...TABS.all.items];
+}
 function Main() {
   const ref = React.useRef();
   const initedRef = React.useRef(false);
@@ -157,6 +159,7 @@ function Main() {
 
   React.useEffect(() => {
     const sumWidth = sizes.reduce((acc, item) => acc + item.width, 0);
+    const sumHeight = sizes.reduce((acc, item) => acc + item.height, 0);
 
     const newHasRightScroll = sumWidth > ref.current.offsetWidth;
     if (newHasRightScroll !== hasRightScroll) {
