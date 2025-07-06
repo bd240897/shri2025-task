@@ -1,0 +1,14 @@
+# Игнорировать все папки с именем temp (в любом месте проекта)
+**/temp/
+
+# Стандартные игнорируемые элементы
+.DS_Store
+node_modules/
+dist/
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+.env
+.env.local
