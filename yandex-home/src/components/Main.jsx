@@ -133,7 +133,7 @@ const TABS = {
 
 const TABS_KEYS = Object.keys(TABS);
 
-export default function Main() {
+function Main() {
   const ref = React.useRef();
   const initedRef = React.useRef(false);
   const [activeTab, setActiveTab] = React.useState("");
@@ -157,7 +157,6 @@ export default function Main() {
 
   React.useEffect(() => {
     const sumWidth = sizes.reduce((acc, item) => acc + item.width, 0);
-    const sumHeight = sizes.reduce((acc, item) => acc + item.height, 0);
 
     const newHasRightScroll = sumWidth > ref.current.offsetWidth;
     if (newHasRightScroll !== hasRightScroll) {
@@ -339,3 +338,5 @@ export default function Main() {
     </main>
   );
 }
+
+export default Main;

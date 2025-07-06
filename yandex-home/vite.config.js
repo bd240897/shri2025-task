@@ -6,6 +6,7 @@ export default defineConfig({
   plugins: [react()],
   base: '/shri2025-task/',
   build: {
+    outDir: '../docs', // Меняем стандартный dist на docs
     rollupOptions: {
       output: {
         entryFileNames: `assets/[name].js`,

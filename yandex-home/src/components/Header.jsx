@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Header() {
+function Header() {
   let [expanded, setExpanded] = React.useState(false);
   let [toggled, setToggled] = React.useState(false);
 
@@ -54,3 +54,5 @@ export default function Header() {
     </header>
   );
 }
+
+export default Header;
